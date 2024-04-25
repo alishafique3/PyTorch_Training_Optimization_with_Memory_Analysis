@@ -25,7 +25,7 @@ Where:
 ## Baseline Model
 Pytorch example "PyTorch Profiler With TensorBoard" is used as base code which is available [Link](https://pytorch.org/tutorials/intermediate/tensorboard_profiler_tutorial.html) accessed on February 2, 2024.
 
-The tutorial has used a classification model (based on the Mobilenet_V2 architecture) that is trained on the popular CIFAR10 dataset. PyTorch Profiler and the PyTorch TensorBoard plugin are used to identify a bottleneck in the training step. 
+This tutorial has used a classification model (based on the Mobilenet_V2 architecture) that is trained on the popular CIFAR10 dataset. PyTorch Profiler and the PyTorch TensorBoard plugin are used to identify a bottleneck in the training step. 
 
 ![1_baseline_u](https://github.com/alishafique3/ML_and_DL_Made_Easy/assets/17300597/3c871ec6-9aac-45c3-a306-7e43f5f65fe7)
 ![1_baseline_memory_u](https://github.com/alishafique3/ML_and_DL_Made_Easy/assets/17300597/3e1a7661-e364-4987-8b4a-1953b3081aa1)
